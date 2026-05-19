@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BEEMAX.aternos.me",
-    "port": 31912,
+    "port": 34099,
     "version": "1.20.1",
     "try-creative": false
   },
