@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BEEMAX.aternos.me",
-    "port": 34099,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -30,7 +30,11 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-     
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
