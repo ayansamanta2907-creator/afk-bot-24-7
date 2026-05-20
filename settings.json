@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": 9999,
       "messages": [
         "I'm a regular player",
         "Subscribe to SoloPlayz!",
